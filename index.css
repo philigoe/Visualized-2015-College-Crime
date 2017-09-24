@@ -1,0 +1,25 @@
+#listOfSchools {
+    height: 200px;
+    overflow: auto;
+}
+
+#currentStateName {
+    font-weight:bold;
+}
+
+thead, tbody {
+    display: block;
+}
+
+tbody {
+    height: 100px;
+    overflow-y: auto;
+}
+
+.schoolTableHeader {
+    width: 80%;
+}
+
+#rankingsList {
+    opacity: 0;
+}
